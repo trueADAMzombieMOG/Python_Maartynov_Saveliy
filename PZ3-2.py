@@ -12,4 +12,3 @@ except ValueError:
         print("отрицательное нечетное число")
     elif number > 0 and number % 2 != 0:
         print("положительное нечетное число")
-
